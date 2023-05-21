@@ -1,0 +1,45 @@
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\bin\Debug\net7.0\C# PATİKA.exe
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\bin\Debug\net7.0\C# PATİKA.deps.json
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\bin\Debug\net7.0\C# PATİKA.runtimeconfig.json
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\bin\Debug\net7.0\C# PATİKA.dll
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\bin\Debug\net7.0\C# PATİKA.pdb
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\obj\Debug\net7.0\C# PATİKA.csproj.AssemblyReference.cache
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\obj\Debug\net7.0\C# PATİKA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\obj\Debug\net7.0\C# PATİKA.AssemblyInfoInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\obj\Debug\net7.0\C# PATİKA.AssemblyInfo.cs
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\obj\Debug\net7.0\C# PATİKA.csproj.CoreCompileInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\obj\Debug\net7.0\C# PATİKA.dll
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\obj\Debug\net7.0\refint\C# PATİKA.dll
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\obj\Debug\net7.0\C# PATİKA.pdb
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\obj\Debug\net7.0\C# PATİKA.genruntimeconfig.cache
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\obj\Debug\net7.0\ref\C# PATİKA.dll
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\Fibonacci\bin\Debug\net7.0\C# PATİKA.exe
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\Fibonacci\bin\Debug\net7.0\C# PATİKA.deps.json
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\Fibonacci\bin\Debug\net7.0\C# PATİKA.runtimeconfig.json
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\Fibonacci\bin\Debug\net7.0\C# PATİKA.dll
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\Fibonacci\bin\Debug\net7.0\C# PATİKA.pdb
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\Fibonacci\obj\Debug\net7.0\C# PATİKA.csproj.AssemblyReference.cache
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\Fibonacci\obj\Debug\net7.0\C# PATİKA.GeneratedMSBuildEditorConfig.editorconfig
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\Fibonacci\obj\Debug\net7.0\C# PATİKA.AssemblyInfoInputs.cache
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\Fibonacci\obj\Debug\net7.0\C# PATİKA.AssemblyInfo.cs
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\Fibonacci\obj\Debug\net7.0\C# PATİKA.csproj.CoreCompileInputs.cache
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\Fibonacci\obj\Debug\net7.0\C# PATİKA.dll
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\Fibonacci\obj\Debug\net7.0\refint\C# PATİKA.dll
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\Fibonacci\obj\Debug\net7.0\C# PATİKA.pdb
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\Fibonacci\obj\Debug\net7.0\C# PATİKA.genruntimeconfig.cache
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\Fibonacci\obj\Debug\net7.0\ref\C# PATİKA.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\Fibonacci\bin\Debug\net7.0\C# PATİKA.exe
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\Fibonacci\bin\Debug\net7.0\C# PATİKA.deps.json
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\Fibonacci\bin\Debug\net7.0\C# PATİKA.runtimeconfig.json
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\Fibonacci\bin\Debug\net7.0\C# PATİKA.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\Fibonacci\bin\Debug\net7.0\C# PATİKA.pdb
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\Fibonacci\obj\Debug\net7.0\C# PATİKA.csproj.AssemblyReference.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\Fibonacci\obj\Debug\net7.0\C# PATİKA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\Fibonacci\obj\Debug\net7.0\C# PATİKA.AssemblyInfoInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\Fibonacci\obj\Debug\net7.0\C# PATİKA.AssemblyInfo.cs
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\Fibonacci\obj\Debug\net7.0\C# PATİKA.csproj.CoreCompileInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\Fibonacci\obj\Debug\net7.0\C# PATİKA.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\Fibonacci\obj\Debug\net7.0\refint\C# PATİKA.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\Fibonacci\obj\Debug\net7.0\C# PATİKA.pdb
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\Fibonacci\obj\Debug\net7.0\C# PATİKA.genruntimeconfig.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\Fibonacci\obj\Debug\net7.0\ref\C# PATİKA.dll
